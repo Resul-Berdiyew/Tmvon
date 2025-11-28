@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "http://pan.tazenew.ru:443/sub/MjYyLDE3NjQzNTY0NzQ1ZmblfwpO6",
+      "permanent": false
+    }
+  ]
+}
